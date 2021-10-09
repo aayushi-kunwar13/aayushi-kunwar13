@@ -1,9 +1,14 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Aayushi Kunwar</h1>
 <h3 align="center">Final Year Undergraduate at IIT BHU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi-kunwar13&label=Profile%20views&color=0e75b6&style=flat" alt="aayushi-kunwar13" /> </p>
+
+<!-- <img align = "right" alt = "Coding" width = "400" src = "https://i.gifer.com/JXA0.gif"> -->
+<!-- <p align="right"> <img src="https://i.gifer.com/JXA0.gif" alt="coding" /> </p> -->
+<!-- <p>&nbsp;<img align="right" src="https://i.gifer.com/JXA0.gif" alt="aayushi-kunwar13" /></p>
+ -->
 
 - 🌱 I’m currently learning **more about NodeJS , Django and DSA**
 
